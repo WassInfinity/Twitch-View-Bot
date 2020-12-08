@@ -2,15 +2,15 @@
 
 # Twitch View Bot
 
-__disclaimer:__ This project was created only for educational purpose and really fast. It probably has a lot of bugs and bad architecture.
-However, the main goal is to show the way of sending requests which Twitch will count as a viewer.
+__avertissement:__ Ce projet a été créé uniquement à des fins éducatives et très rapide. Il a probablement beaucoup de bugs et une mauvaise optimisation.
+L'objectif principal est de montrer la manière d'envoyer des demandes que Twitch comptera comme spectateur.
 
 ### Description
-First open-source really working view bot for Twitch. My project don't use Selenium, it works only on HTTP requests.
+Premier bot de vue open-source vraiment fonctionnel pour Twitch. Mon projet n'utilise pas Selenium, il ne fonctionne que sur les requêtes HTTP.
 
 ### Installation
 ``git clone https://github.com/OGSegu/Twitch_ViewBot.git``  
 ``./gradlew build``
 
 
-__Contributions are welcomed.__
+__Les contributions sont les bienvenues.__
