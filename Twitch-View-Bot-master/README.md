@@ -9,7 +9,7 @@ L'objectif principal est de montrer la manière d'envoyer des demandes que Twitc
 Premier bot de vue open-source vraiment fonctionnel pour Twitch. Mon projet n'utilise pas Selenium, il ne fonctionne que sur les requêtes HTTP.
 
 ### Installation
-``git clone https://github.com/OGSegu/Twitch_ViewBot.git``  
+``git clone https://github.com/WassInfinity/Twitch_ViewBot.git``  
 ``./gradlew build``
 
 
